@@ -46,7 +46,7 @@
 		<key>memberVarAssignmentName</key>
 		<string></string>
 		<key>memberVarAssignmentType</key>
-		<integer>1</integer>
+		<integer>0</integer>
 		<key>properties</key>
 		<array>
 			<dict>
